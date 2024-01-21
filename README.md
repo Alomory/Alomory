@@ -1,6 +1,8 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
-<h1 align="center">Congrats 👋🏻, you just found me</h1>
+<div  align="center" dir="auto">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&size=24&duration=3000&pause=1000&background=073042&color=F7F7F7&&center=true&vCenter=true&random=false&width=435&height=60&lines=Congrats+%F0%9F%91%8B%F0%9F%8F%BB%2C+you+just+found+me;Omar+is+Here" alt="Typing SVG" /></a>
+</div>
 <h3 align="center">A passionate mobile app developer from earth</h3>
 
 <img align = "right" alt="Coding" width = "400" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9525tvlgk2pbtwyxnf0a7rqzpl706xi3i4gf1tcvesp&ep=v1_gifs_search&rid=200w.gif&ct=g">  
